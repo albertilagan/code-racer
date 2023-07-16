@@ -43,3 +43,13 @@ prisma/dev.db-journal
 
 #local notes & todos - for personal track only
 Note.md
+# Devenv
+.devenv*
+devenv.local.nix
+
+# direnv
+.direnv
+
+# pre-commit
+.pre-commit-config.yaml
+
